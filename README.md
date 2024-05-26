@@ -29,3 +29,19 @@
 ![image](https://github.com/MinhFX/Love_Shop/assets/146899219/ca91a3fb-71d6-4866-9c28-02f35703c4d2)
 ![image](https://github.com/MinhFX/Love_Shop/assets/146899219/f9c054a4-75cc-4181-833c-37dee2ddf395)
 ---------
+# android
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
