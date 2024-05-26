@@ -1,6 +1,6 @@
 # About The Project
 ![333793822-b102c8dc-535b-419e-b75b-5553c1908071](https://github.com/MinhFX/POS/assets/146899219/4181705d-cd94-43d4-959c-a2e126e047db)
----------
+---------  
 ![image](https://github.com/MinhFX/Love_Shop/assets/146899219/75c67f9f-7967-4ccf-8dac-1dd04e25de3a)
 ![image](https://github.com/MinhFX/Love_Shop/assets/146899219/f1c1f00e-3dea-4c15-b6a8-97f294cb664f)
 ![image](https://github.com/MinhFX/Love_Shop/assets/146899219/cf9e881f-ba00-4882-86ec-4a386e468aba)  
@@ -23,3 +23,9 @@
 ---------  
 ![image](https://github.com/MinhFX/Love_Shop/assets/146899219/a32ffc34-a38c-4b92-9ea1-3bffdf5b0bb3)
 ![image](https://github.com/MinhFX/Love_Shop/assets/146899219/9e5142f7-d97e-4154-87fe-380f8c7114aa)
+
+# How to read API in Flutter
+![image](https://github.com/MinhFX/Love_Shop/assets/146899219/062ad4e4-ed7f-4524-b3fa-36defc2b351c)
+![image](https://github.com/MinhFX/Love_Shop/assets/146899219/ca91a3fb-71d6-4866-9c28-02f35703c4d2)
+![image](https://github.com/MinhFX/Love_Shop/assets/146899219/f9c054a4-75cc-4181-833c-37dee2ddf395)
+---------
