@@ -28,6 +28,7 @@
 ![image](https://github.com/MinhFX/Love_Shop/assets/146899219/062ad4e4-ed7f-4524-b3fa-36defc2b351c)
 ![image](https://github.com/MinhFX/Love_Shop/assets/146899219/ca91a3fb-71d6-4866-9c28-02f35703c4d2)
 ![image](https://github.com/MinhFX/Love_Shop/assets/146899219/f9c054a4-75cc-4181-833c-37dee2ddf395)
+---------
 
 <a href="https://flutter.dev/">
   <h1 align="center">
